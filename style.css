@@ -23,7 +23,7 @@ body {
     border: 10px solid var(--border-color);
     margin: 360px auto;
     box-shadow: inset 10px 0px 15px 0px var(--shadow);
-    background-color: var(--backround);
+    background-color: var(--background);
 }
 
 .card .textContainer {
@@ -77,7 +77,7 @@ body {
     transform-origin: 50% 0%;
     transform: perspective(800px) rotateX(0deg);
     transition: all 0.8s ease-in-out;
-    background-color: var(--backround);
+    background-color: var(--background);
     box-shadow: 0 0 0 0 var(--shadow);
 }
 
